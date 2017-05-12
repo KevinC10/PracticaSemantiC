@@ -1,0 +1,2 @@
+# PracticaSemantiC
+Practica de Semantica
